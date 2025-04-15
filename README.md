@@ -49,10 +49,7 @@ To leverage ML models and domain knowledge to:
 2. Run all cells to reproduce the analysis and plots
 3. Modify or extend with other sustainability metrics as needed
 
-👉 Open in Colab:  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/Cropyield-Sustainability/blob/main/Cropyield_Concluded.ipynb)
 
----
 
 ## 🧠 Credits
 
